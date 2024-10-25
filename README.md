@@ -6,7 +6,9 @@ Bem-vindo ao meu portfólio!
 
 Meu nome é **[Gustavo]**, sou estudante de [Informatica] 
 
-> "A única forma de fazer um ótimo trabalho é amar o que você faz." – Steve Jobs
+![Descrição da Imagem](https://w1.pngwing.com/pngs/610/190/png-transparent-facebook-thumb-smiley-thumb-signal-emoticon-emoji-animation-online-chat-yellow-thumbnail.png)
+
+
 
 ## Habilidades
 
